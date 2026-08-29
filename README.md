@@ -1,7 +1,7 @@
 # 🗄️ QA Database & Console Testing — Chicago Taxi System
 
 ## 📖 Sobre o Projeto
-Projeto de Quality Assurance realizado durante o curso de QA da TripleTen (Sprint 6). 
+Projeto de Quality Assurance realizado durante o curso de QA da TripleTen. 
 O objetivo foi realizar testes e validações em um sistema de táxis de Chicago, 
 trabalhando em duas frentes: **manipulação de logs via console Linux** e **consultas 
 em banco de dados PostgreSQL** para identificar inconsistências nos dados do sistema.
